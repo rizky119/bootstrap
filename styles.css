@@ -1,0 +1,14 @@
+.jumbotron{
+            background-color: rgb(247, 211, 217);
+}
+.container-nav{
+    color: rgb(126, 83, 90);
+}
+.nav-link{
+    color: rgb(126, 83, 90);
+}
+.a{
+    color:  rgb(91, 60, 65);
+}
+a.btn.btn-primary.btn-lg {
+    background: rgb(91, 60, 65);
