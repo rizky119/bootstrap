@@ -1,17 +1,33 @@
 .jumbotron{
-            background-color: rgb(247, 211, 217);
-}
+    background-color: rgb(247, 211, 217);
+        }
 .container-nav{
     color: rgb(126, 83, 90);
+    
 }
 .nav-link{
     color: rgb(126, 83, 90);
 }
 .a{
+    display: block;
     color:  rgb(91, 60, 65);
+    padding: 10px;
+    margin: 30px;
+}
+.content1 {
+    width:300px;
+    margin: 0 auto;
+    text-align: center;  
 }
 a.btn.btn-primary.btn-lg {
     background: rgb(91, 60, 65);
+}
 .content{   
-    text-align: center;
+    display: inline-block;
+    text-align: left;
+    margin: 20px;
 } 
+img {
+    display: inline-block;
+    margin: 20px;
+}
